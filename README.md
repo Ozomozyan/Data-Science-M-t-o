@@ -18,7 +18,7 @@ Welcome to the **Data-Science-M-t-o** repository! This project is divided into f
 
 ---
 
-## Part 2: Visualize Dataset
+## Part 2: Visualise Dataset
 
 **Filename:** [visualise_dataset.ipynb](visualise_dataset.ipynb)
 
@@ -28,7 +28,7 @@ Welcome to the **Data-Science-M-t-o** repository! This project is divided into f
 
 ## Part 3: Modeling & Evaluation
 
-**Filename:** [modeling_evaluation.ipynb](modeling_evaluation.ipynb)
+**Filename:** [Modelisation&Evoluation.ipynb](Modelisation&Evoluation.ipynb)
 
 *Description:* Implement and evaluate different machine learning models to predict and assess their performance.
 
@@ -36,7 +36,7 @@ Welcome to the **Data-Science-M-t-o** repository! This project is divided into f
 
 ## Part 4: Data Visualization
 
-**Filename:** [data_visualization.ipynb](data_visualization.ipynb)
+**Filename:** [Datavisualisation.ipynb](Datavisualisation.ipynb)
 
 *Description:* Advanced data visualization techniques to create interactive and informative visual representations of your data.
 
