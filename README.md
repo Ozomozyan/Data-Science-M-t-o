@@ -4,7 +4,7 @@ Welcome to the **Data-Science-M-t-o** repository! This project is divided into f
 
 ## Table of Contents
 1. [Part 1: Manage Dataset](#part-1-manage-dataset)
-2. [Part 2: Visualize Dataset](#part-2-visualize-dataset)
+2. [Part 2: Visualise Dataset](#part-2-visualise-dataset)
 3. [Part 3: Modeling & Evaluation](#part-3-modeling--evaluation)
 4. [Part 4: Data Visualization](#part-4-data-visualization)
 
@@ -20,7 +20,7 @@ Welcome to the **Data-Science-M-t-o** repository! This project is divided into f
 
 ## Part 2: Visualize Dataset
 
-**Filename:** [visualize_dataset.ipynb](visualize_dataset.ipynb)
+**Filename:** [visualise_dataset.ipynb](visualise_dataset.ipynb)
 
 *Description:* Explore various data visualization methods to uncover patterns and insights within the dataset.
 
